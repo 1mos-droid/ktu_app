@@ -1,6 +1,6 @@
 # 📚 KTU App
 
-A comprehensive mobile and web application built to serve the needs of the **Koforidua Technical University (KTU)** community, providing seamless access to essential information and services.
+A comprehensive mobile and web application built to serve the needs of the **Kumasi Technical University (KTU)** community, providing seamless access to essential information and services.
 
 This project utilizes a modern full-stack architecture, featuring a cross-platform mobile frontend and a robust backend API.
 
